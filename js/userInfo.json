@@ -1,0 +1,10 @@
+{
+    "user-1":{
+        "userEmail": "this",
+        "token": "12343"
+    },
+    "user-2":{
+        "userEmail": "that",
+        "token": "12345"
+    }
+}
